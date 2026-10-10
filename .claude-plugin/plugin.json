@@ -3,9 +3,19 @@
   "displayName": "iNotaFiscal",
   "version": "0.1.0",
   "description": "Emita e consulte as notas fiscais de serviço (NFS-e) da sua empresa do Simples Nacional, com o mesmo plano do WhatsApp do iNotaFiscal. Documento fiscal, sem pagamento nem transferência de dinheiro.",
-  "author": { "name": "Banana Software", "url": "https://inotafiscal.com.br" },
+  "author": {
+    "name": "Banana Software",
+    "url": "https://inotafiscal.com.br"
+  },
   "homepage": "https://inotafiscal.com.br",
   "repository": "https://github.com/banana-software-ai/inotafiscal-plugin",
   "license": "UNLICENSED",
-  "keywords": ["nfs-e", "nota fiscal", "simples nacional", "mei"]
+  "keywords": [
+    "nfs-e",
+    "nota fiscal",
+    "simples nacional",
+    "mei"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://inotafiscal.com.br/privacidade"
 }
