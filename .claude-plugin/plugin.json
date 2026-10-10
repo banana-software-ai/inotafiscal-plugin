@@ -17,5 +17,8 @@
     "mei"
   ],
   "icon": ".claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://inotafiscal.com.br/privacidade"
+  "privacyPolicyUrl": "https://inotafiscal.com.br/privacidade",
+  "supportUrl": "https://wa.me/553530910939",
+  "documentationUrl": "https://github.com/banana-software-ai/inotafiscal-plugin#readme",
+  "termsOfServiceUrl": "https://inotafiscal.com.br/termos"
 }
