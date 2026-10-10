@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "inotafiscal": {
+      "type": "http",
+      "url": "https://inotafiscal.com.br/mcp"
+    }
+  }
+}
