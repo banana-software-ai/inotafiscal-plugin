@@ -1,7 +1,7 @@
 {
   "name": "inotafiscal",
   "displayName": "iNotaFiscal",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Emita e consulte as notas fiscais de serviço (NFS-e) da sua empresa do Simples Nacional, com o mesmo plano do WhatsApp do iNotaFiscal. Documento fiscal, sem pagamento nem transferência de dinheiro.",
   "author": {
     "name": "Banana Software",
